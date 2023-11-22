@@ -10,7 +10,6 @@ install python (3.9 or above should be fine) from python.org, install dependenci
 
 - currently only works on the primary monitor
 - adapts to the primary monitor refresh rate to make it smooth
-- 
 
 ## contributing
 
